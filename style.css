@@ -1,0 +1,50 @@
+.zgoraj {
+
+  height: 50px;
+  width: auto;
+  background-color: white;
+  border: 2px solid black;
+  margin: 1%;
+}
+
+.gmail {
+  position: fixed;
+  top: 30px;
+  right: 165px;
+  text-decoration: underline;
+}
+
+.slike {
+  position: fixed;
+  top: 30px;
+  right: 115px;
+}
+
+.sredina {
+    margin: auto;
+    width: 50%;
+    border: 2px solid black;
+    padding: 100px;
+    text-align: center;
+    font-size: 90px;
+    font-weight: bold;
+    font-family: sans-serif;
+    letter-spacing: -12px;
+}
+
+.btn {
+  background-color: blue;
+  color: black;
+  padding: 5px 10px;
+  text-align: center;
+  font-size: 13px;
+  font-weight: bold;
+  border: 1px solid black;
+  position: fixed;
+  top: 26px;
+  right: 35px;
+  opacity: 0.6;
+  transition: 0.1s
+}
+
+.btn:hover {opacity: 1}
